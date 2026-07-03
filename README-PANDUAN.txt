@@ -1,5 +1,5 @@
 * Program ini dibuat menggunakan Framework Laravel
-* Program ini dibuat dengan tujuan 
+* Program ini dibuat dengan tujuan tes di Jasuindo Tiga Perkasa
 * program ini dijalankan dengan environment XAMPP dan mariaDB
 
 Cara penggunaan program : 
